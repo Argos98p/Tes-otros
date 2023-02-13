@@ -1,0 +1,35 @@
+prefix : <http://turis-ucuenca/>
+prefix org: <http://www.w3.org/TR/vocab-org/>
+prefix myorg: <http://turis-ucuenca/org/>
+prefix myregiones: <http://turis-ucuenca/region/>
+prefix lugar: <http://turis-ucuenca/lugar/>
+prefix myusers: <http://turis-ucuenca/user/>
+prefix foaf: <http://xmlns.com/foaf/0.1/>
+prefix tp: <http://tour-pedia.org/download/tp.owl>
+prefix vcard: <http://www.w3.org/2006/vcard/ns#>
+prefix geo: <http://www.opengis.net/ont/geosparql#>
+prefix dc: <http://purl.org/dc/elements/1.1/>
+prefix fb:<http://turis-ucuenca#>
+prefix base2:<http://turis-ucuenca#>
+prefix geof: <http://www.opengis.net/def/function/geosparql/>
+base  <http://turis-ucuenca/>
+
+DELETE{
+    ?place dc:title ?titulo;
+    dc:description ?descripcion;
+    base2:status ?status;
+           rdfs:label ?titulo2;
+}
+INSERT{
+    lugar:d1e5f44f-403e-47ec-84f3-6a9e5c3c108b dc:title "Laguna Illincocha";
+    dc:description "descripcion laguna Illincocha";
+    base2:status "revisar";
+    rdfs:label "Laguna Illincocha".
+}
+WHERE{
+   ?place dc:title ?titulo;
+    dc:description ?descripcion;
+    base2:status ?status;
+    rdfs:label ?titulo2;
+  FILTER(str(?place) = "http://turis-ucuenca/lugar/d1e5f44f-403e-47ec-84f3-6a9e5c3c108b")
+}

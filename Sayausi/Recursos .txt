@@ -1,0 +1,86 @@
+----------------Lagunas Pampeadas----------------
+{   "usuarioId":"14",
+    "latitud" : -2.7672434211639314,
+    "longitud" : -79.26608445068366,
+    "descripcion":"Ruta de ida y vuelta de 7,4-km cerca de Cuenca Canton, Azuay. Por lo general, se considera una ruta moderada, que se tarda una media de 3 h 5 min en recorrer. Esta ruta es excelente para el senderismo, y es poco probable encontrarse con otras personas mientras se recorre.",
+    "nombre" : "Lagunas Pampeadas"
+}
+
+
+-----------Mirador tres cruces---------------
+
+{   "usuarioId":"14",
+    "latitud" : -2.7773300757122845,
+    "longitud" : -79.2406654584792,
+    "descripcion":"Un hermoso lugar ubicado a 4000 metros sobre el nivel del mar, es la parte más alta de la cordillera por donde cruza la carretera, lugar frío pero con una vista espectacular, hay que ir con ropa abrigada y con espíritu de aventura",
+    "nombre" : "Mirador Tres Cruces"
+}
+
+-----------Laguna Illincocha---------------
+
+{   "usuarioId":"14",
+    "latitud" : -2.7786369457571896,
+    "longitud" : -79.231095209251,
+    "descripcion":"Illincocha es parte del sistema lacustre del Parque Nacional Cajas, que alberga una flora y fauna únicas",
+    "nombre" : "Laguna Illincocha"
+}
+
+-----------Laguna Toreadora---------------
+
+{   "usuarioId":"14",
+    "latitud" : -2.7810314375778487,
+    "longitud" : -79.2238729252344,
+    "descripcion":"La Toreadora, que se encuentra ubicada a 3.900 m.s.n.m. Esta laguna es una de los sitios más visitados del parque, motivo por el cual merece formar parte de tu agenda de visitas mientras te encuentres en el Ecuador.",    
+    "nombre" : "Laguna Toreadora"
+}
+
+
+-----------Hosteria Dos Chorreras---------------
+
+{   "usuarioId":"14",
+    "latitud" : -2.7828055249154646,
+    "longitud" : -79.16818428497258,
+    "descripcion":"La Hostería Dos Chorreras dispone de restaurante, bar y jardín. Además, cuenta con habitaciones con vistas panorámicas a las montañas y conexión Wi-Fi gratuita. El casco histórico de Cuenca se encuentra a 30 minutos en coche.
+    La Hostería Dos Chorreras dispone de habitaciones y bungalows con baño privado, TV LCD vía satélite y zona de estar. También se ofrece servicio de habitaciones.
+    La recepción 24 horas ofrece servicio de lavandería y alquiler de bicicletas. Además, los huéspedes podrán disfrutar de las actividades de la zona, como pesca, piragüismo y equitación.",
+    "nombre" : "Hosteria Dos Chorreras"
+}
+
+-----------Santuario de la Vírgen del Cajas---------------
+
+{   "usuarioId":"14",
+    "latitud" : -2.7802234417653016,
+    "longitud" : -79.1909574602231,
+    "descripcion":"El Santuario de la Virgen de El Cajas, en la advocación de la Guardiana de la Fe, es el sitio de constantes peregrinaciones. Un altar con rústicos materiales y en medio de la naturaleza, guarda la imagen de la Virgen en la advocación de la Guardiana de la Fe.",
+    "nombre" : "Santuario de la Vírgen del Cajas"
+}
+
+-----------Sendero Llaviucu---------------
+
+{   "usuarioId":"14",
+    "latitud" : -2.843548072149265,
+    "longitud" : -79.14460141880998,
+    "descripcion" : "Descripcion del sendero Llaviucu",
+    "nombre" : "Sendero Llaviucu"
+}
+
+-----------Cerro Cabogana---------------
+
+{   "usuarioId":"14",
+    "latitud" : -2.831752557569628,
+    "longitud" : -79.05559622583736,
+    "descripcion":"Cabogana o Cabugana en quichua, significa <asaltar>, quizá débese su nombre a lo agreste y difícil acceso del lugar. El Gigante de más 3.700 metros de altura, forma parte del conjunto montañoso de El Cajas  y  mantiene bajas temperaturas que llegan a los 0 grados centígrados. Su extensa falda se prolonga en escalonadas colinas donde se asienta parte de Cuenca.",",
+    "nombre" : "Cerro Cabogana"
+}
+
+
+-----------Iglesia Católica San Pedro de Sayausí---------------
+
+{   "usuarioId":"14",
+    "latitud" : -2.872582244821001,
+    "longitud" : -79.0725394865325,
+    "descripcion": "Descripcion para la iglesia catolica de San pedro de Sayausi",
+    "nombre" : "Iglesia Católica San Pedro de Sayausí"
+}
+
+
