@@ -1,0 +1,163 @@
+[
+    {   
+        "usuarioId":"14",
+        "latitud" : -2.7828055249154646,
+        "longitud" : -79.16818428497258,
+        "descripcion":"La Hostería Dos Chorreras dispone de restaurante, bar y jardín. Además, cuenta con habitaciones con vistas panorámicas a las montañas y conexión Wi-Fi gratuita. El casco histórico de Cuenca se encuentra a 30 minutos en coche. La Hostería Dos Chorreras dispone de habitaciones y bungalows con baño privado, TV LCD vía satélite y zona de estar. También se ofrece servicio de habitaciones. La recepción 24 horas ofrece servicio de lavandería y alquiler de bicicletas. Además, los huéspedes podrán disfrutar de las actividades de la zona, como pesca, piragüismo y equitación.",
+        "nombre" : "Hosteria Dos Chorreras",
+        "categoria": "hosteria,restaurant,bar,jardin,montaña",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Sayausi/Laguna Pampeadas"
+    },
+    {   
+        "usuarioId":"14",
+        "latitud" : -2.7773300757122845,
+        "longitud" : -79.2406654584792,
+        "descripcion":"Un hermoso lugar ubicado a 4000 metros sobre el nivel del mar, es la parte más alta de la cordillera por donde cruza la carretera, lugar frío pero con una vista espectacular, hay que ir con ropa abrigada y con espíritu de aventura",
+        "nombre" : "Mirador Tres Cruces",
+        "categoria":"mirador,montaña",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Sayausi/Mirador tres cruces"
+    },
+    {   
+        "usuarioId":"14",
+        "latitud" : -2.7786369457571896,
+        "longitud" : -79.231095209251,
+        "descripcion":"Illincocha es parte del sistema lacustre del Parque Nacional Cajas, que alberga una flora y fauna únicas",
+        "nombre" : "Laguna Illincocha",
+        "categoria":"laguna",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Sayausi/Laguna Illincocha"
+    },
+    {   
+        "usuarioId":"14",
+        "latitud" : -2.7810314375778487,
+        "longitud" : -79.2238729252344,
+        "descripcion":"La Toreadora, que se encuentra ubicada a 3.900 m.s.n.m. Esta laguna es una de los sitios más visitados del parque, motivo por el cual merece formar parte de tu agenda de visitas mientras te encuentres en el Ecuador.",    
+        "nombre" : "Laguna Toreadora",
+        "categoria":"laguna",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Sayausi/Laguna Toreadora"
+    },
+    {   
+        "usuarioId":"14",
+        "latitud" : -2.7802234417653016,
+        "longitud" : -79.1909574602231,
+        "descripcion":"El Santuario de la Virgen de El Cajas, en la advocación de la Guardiana de la Fe, es el sitio de constantes peregrinaciones. Un altar con rústicos materiales y en medio de la naturaleza, guarda la imagen de la Virgen en la advocación de la Guardiana de la Fe.",
+        "nombre" : "Santuario de la Vírgen del Cajas",
+        "categoria":"iglesia,santuario",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Sayausi/Santuario de la Vírgen del Cajas"
+    },
+    {   
+        "usuarioId":"14",
+        "latitud" : -2.843548072149265,
+        "longitud" : -79.14460141880998,
+        "descripcion" : "Descripcion del sendero Llaviucu",
+        "nombre" : "Sendero Llaviucu",
+        "categoria":"sendero,montaña",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Sayausi/Sendero Llaviucu"
+    },
+
+    {   
+        "usuarioId":"14",
+        "latitud" : -2.831752557569628,
+        "longitud" : -79.05559622583736,
+        "descripcion":"Cabogana o Cabugana en quichua, significa <asaltar>, quizá débese su nombre a lo agreste y difícil acceso del lugar. El Gigante de más 3.700 metros de altura, forma parte del conjunto montañoso de El Cajas  y  mantiene bajas temperaturas que llegan a los 0 grados centígrados. Su extensa falda se prolonga en escalonadas colinas donde se asienta parte de Cuenca.",
+        "nombre" : "Cerro Cabogana",
+        "categoria":"sendero,montaña",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Sayausi/Cerro Cabogana"
+    },
+
+    {   
+        "usuarioId":"14",
+        "latitud" : -2.872582244821001,
+        "longitud" : -79.0725394865325,
+        "descripcion": "Descripcion para la iglesia catolica de San pedro de Sayausi",
+        "nombre" : "Iglesia Católica San Pedro de Sayausí",
+        "categoria":"iglesia",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Sayausi/Iglesia Católica San Pedro de Sayausí"
+    },
+
+    {   
+        "usuarioId":"14",
+        "latitud" : -2.920643,
+        "longitud" : -79.061798,
+        "descripcion": "Esta hostería cuenta con cómodas habitaciones, restaurante, salón de eventos y por supuesto un balneario que ya es un clásico en Cuenca, con piscinas y baños sauna",
+        "nombre" : "Hostería Durán",
+        "categoria":"hosteria",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Banios/hosteriaDuran"
+    },
+    {   
+        "usuarioId":"14",
+        "latitud" : -2.922532,
+        "longitud" :  -79.061874,
+        "descripcion": "Es el único spa termal subterráneo de América. Ofrece una gama de servicios termales de spa  como piscinas, termas de contraste, piscinas de lodo volcánico, saunas, baños de cajón, masajes, etc. Cuenta además con un excelente restaurante. Ver establecimiento.",
+        "nombre" : "Piedra de Agua Fuente Termal & Spa",
+        "categoria":"hosteria",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Banios/NovaSpa"
+    },
+    {   
+        "usuarioId":"14",
+        "latitud" : -2.922679, 
+        "longitud" :  -79.062045,
+        "descripcion": "Balneario de aguas termnales",
+        "nombre" : "Hosteria Riñon",
+        "categoria":"hosteria",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Banios/HosteriaRinion"
+    },
+    {   
+        "usuarioId":"14",
+        "latitud" : -2.920703,
+        "longitud" : -79.065648,
+        "descripcion": "La Hostería está Ubicada en la Parroquia Baños; conocido sector turístico por sus aguas termales y su comida típica, a 20 minutos del centro de la ciudad de Cuenca. Nuestras Instalaciones cuentan con: Piscinas, Turcos, Termas, Parqueadero Privado, Cafetería, Salones de Eventos y Conferencias, Sala de Masajes.",
+        "nombre" : "Hostería Termal Rodas",
+        "categoria":"hosteria",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Banios/HosteriaTermalRodas"
+    },
+    {   
+        "usuarioId":"14",
+        "latitud" : -2.923483, 
+        "longitud" : -79.066270,
+        "descripcion": "Iglesia de la parroquia Baños",
+        "nombre" : "Iglesia de la Virgen de Guadalupe de Baños",
+        "categoria":"iglesia",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Banios/IglesiaBanios"
+    },
+
+
+
+
+    {   
+        "usuarioId":"14",
+        "latitud" : -2.906181, 
+        "longitud" : -78.996849,
+        "descripcion": "El Museo Pumapungo custodia la reserva y sala nacional de etnografía, donde se puede apreciar la enorme riqueza intercultural que caracteriza al Ecuador.",
+        "nombre" : "Museo Pumapungo",
+        "categoria":"museo",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Cuenca/MuseoPumapungo"
+    },
+    {   
+        "usuarioId":"14",
+        "latitud" : 2.9001464,
+        "longitud" : -79.0034286,
+        "descripcion": "Un monasterio que está hecho museo y tiene diferentes salas donde exhiben los temas de la Historia del Monasterio y Vida Cotidiana; Pintura y Escultura; Miniaturas Costumbristas; Mobiliario; Porcelana y Cristalería.",
+        "nombre" : "Museo de las Madres Conceptas",
+        "categoria":"museo",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Cuenca/MuseoConceptas"
+    },
+    {   
+        "usuarioId":"14",
+        "latitud" : -2.9049954,
+        "longitud" : -78.9999939,
+        "descripcion": "El Museo está ubicado al ingreso norte del complejo arqueológico, que fue descubierto por casualidad en 1972 cuando en ese lugar se pretendía construir un inmueble particular.",
+        "nombre" : "Ruinas de Todos Santos",
+        "categoria":"museo",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Cuenca/RuinasTodosSantos"
+    },
+    {   
+        "usuarioId":"14",
+        "latitud" : -2.9026784,
+        "longitud" : -79.0022909,
+        "descripcion": "Es un museo donde guarda y difunde la cultura ancestral del Ecuador y Sudamérica.",
+        "nombre" : "Museo de las Culturas Aborígenes",
+        "categoria":"museo",
+        "imagenes_directorio":"/home/argos98/Documentos/Tesis/Recursos/Cuenca/MuseoAborigenes"
+    }
+]
+
